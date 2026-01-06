@@ -43,7 +43,7 @@ You must link against:
 ## Run
 
 ```sh
-./main <number_of_agents> // if left empty, it goes to the default value 5
+./main <number_of_agents> # if left empty, it goes to the default value 5
 ```
 
 ---
